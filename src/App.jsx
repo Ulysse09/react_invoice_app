@@ -72,9 +72,9 @@ function App() {
         </div>
       </nav>
       <div className="flex-col md:flex justify-between items-center px-4 relative container mx-auto    ">
-        <div className="flex flex-col  space-x-10 pt-24 px-24 justify-evenly container mx-auto  ">
-          <div className="flex justify-between container mx-auto">
-            <div className="p-8   ">
+        <div className="flex flex-col  space-x-10 pt-12 px-5 justify-evenly container mx-auto  ">
+          <div className="flex justify-evenly container mx-auto">
+            <div className="my-10 px-4    ">
               <h1 className="text-white text-4xl font-bold">Invoices</h1>
               <p className="text-white font-medium">
                 There are 7 total invoices
